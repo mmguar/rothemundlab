@@ -5,6 +5,11 @@
   number_educ: 2
   education1: B.S. Biology and Engineering and Applied Science, Caltech
   education2: Ph.D. Computer Science, University of Southern California
+  
+- name: Lucinda Acosta
+  photo: lucinda.jpg
+  info: Administrative Assistant
+  email: lucinda@caltech.edu
 
 - name: Vishal Maingi
   photo: vishal.jpg
