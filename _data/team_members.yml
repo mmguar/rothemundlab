@@ -8,10 +8,10 @@
 
 - name: Vishal Maingi
   photo: vishal.jpg
-  info: Postdoc
+  info: Postdoc, Biology and Biological Engineering
   email: vmaingi@caltech.edu
   number_educ: 4
-  education1: B. Pharm., Pharmaceutical Sciences, Gutu Nanak Dev University (IN)
+  education1: B.Pharm., Pharmaceutical Sciences, Gutu Nanak Dev University (IN)
   education2: M.S. Medicinal Chemistry, N.I.P.E.R. Mohali (IN)
   education3: Ph.D. Biochemistry, University of Oxford (UK)
   education4: Postdoc, University of Oxford (UK)
@@ -19,7 +19,7 @@
 
 - name: Byoung-jin Jeon
   photo: bj.jpg
-  info: Postdoc
+  info: Postdoc, Computing and Mathematical Science
   email: bjeon@caltech.edu
   number_educ: 4
   education1: B.S. Materials Science & Engineering, Yonsei University (KR) 
@@ -29,7 +29,7 @@
 
 - name: Jaimie Marie Stewart
   photo: jms.jpg
-  info: Postdoc
+  info: Postdoc, Computing and Mathematical Sciences
   email: jms@caltech.edu
   number_educ: 3
   education1: B.S. Bioengineering, University of Illinois at Chicago
@@ -38,7 +38,7 @@
 
 - name: Matteo Michele Guareschi
   photo: mmg.jpg
-  info: Ph.D. Student
+  info: Ph.D. Student, Bioengineering
   email: mmguar@dna.caltech.edu
   number_educ: 2
   education1: B.S. Electrical Engineering & Computer Science, Università di Pavia (IT)
@@ -46,7 +46,7 @@
 
 - name: Olivia Zou
   photo: olivia.jpg
-  info: Ph.D. Rotation Student
+  info: Ph.D. Rotation Student, Bioengineering
   email: ozou@caltech.edu
   number_educ: 1
   education1: B.S. Biological Physiscs, Mathematics, Brandeis University
