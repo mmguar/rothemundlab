@@ -8,7 +8,7 @@ permalink: /aboutwebsite.html
 
 ### Copyright / credit
 
-This website has been adopted using a template from the Allan Lab at Leiden University. You can find more about the template and how to use it here.
+This website has been adapted using a template from the Allan Lab at Leiden University. You can find more about the template and how to use it here.
 
 Code released under the MIT License. 
 
