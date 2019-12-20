@@ -28,10 +28,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/two_smileys.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-	    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starry_night.jpg" alt="Slide 2" />
+	    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/starry_night.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mica_lattice.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
