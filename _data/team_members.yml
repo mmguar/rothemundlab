@@ -10,11 +10,13 @@
   photo: vishal.jpg
   info: Postdoc
   email: vmaingi@caltech.edu
-  number_educ: 3
+  number_educ: 4
   education1: B. Pharm., Pharmaceutical Sciences, Gutu Nanak Dev University (IN)
   education2: M.S. Medicinal Chemistry, N.I.P.E.R. Mohali (IN)
-  education2: Ph.D. Biochemistry, University of Oxford (UK)
-  
+  education3: Ph.D. Biochemistry, University of Oxford (UK)
+  education4: Postdoc, University of Oxford (UK)
+
+
 - name: Byoung-jin Jeon
   photo: bj.jpg
   info: Postdoc
