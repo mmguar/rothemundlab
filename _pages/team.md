@@ -80,6 +80,7 @@ Jump to [staff](#staff), [bachelor students](#bachelor-students), [alumni](#alum
 
 ## Bachelor Students
 Contact Paul if you are interested in working with us for you bachelor research project or SURF.
+ If you are an undergrad interested in DNA nanotechnology, or other areas of biomolecular design such as protein design, check out the [BIOMOD biomolecular design competition](http://biomod.net) run by [Shawn Douglas](http://www.shawndouglas.com/me.html) at Harvard. 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
