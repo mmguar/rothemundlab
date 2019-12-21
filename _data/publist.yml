@@ -1,30 +1,30 @@
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: "Absolute and arbitrary orientation of single molecule shapes"
+  image: abs_arb_orientation.png
+  description: We show that we can position DNA origami on silica surfaces with absolute (all degrees of freedom are specified) and arbitrary (every molecule's orientation is independently specified). 
+  authors: A. Gopinath, C. Thachuk, A. Mitskovets, H.A. Atwater, D. Kirkpatrick, P.W.K. Rothemund
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
+    url: https://arxiv.org/abs/1808.04544
+    display: arXiv 1808.04544 (2018) 
   highlight: 1
   news2:
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+- title: "Engineering and mapping nanocavity emission via precision placement of DNA origami"
+  image: starry_night.png
+  description: Being able to precisely position DNA origami onto lithographically patterned surfaces, allowed us to program the intensity of tens of thousands of photonic crystal cavities.
+  authors: A. Gopinath, E. Miyazono, A. Faraon, P.W.K. Rothemund
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
+    url: https://www.nature.com/articles/nature18287
+    display:  Nature 525, 401-405 (2016)
   highlight: 1
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "Optimized assembly and covalent coupling of single-molecule DNA origami nanoarrays"
+  image: optim_assembly.png
+  description: Ashwin studies how to improve the electrostatic self-assembly of DNA origami onto lithographically patterned silica/silicon surfaces. In addition to the electrostatic bonds, we demonstrate covalent bonds, that do not require high concentration magnesium.
+  authors: A. Gopinath, P.W.K. Rothemund
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
+    url: https://pubs.acs.org/doi/abs/10.1021/nn506014s
+    display:  ACS Nano 8 (12), 12030-12040
   highlight: 1
   news2:
 
