@@ -24,29 +24,28 @@
   authors: A. Gopinath, P.W.K. Rothemund
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/nn506014s
-    display:  ACS Nano 8 (12), 12030-12040
+    display:  ACS Nano 8 (12), 12030-12040 (2014)
   highlight: 1
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: dummy.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Self-assembly of two-dimensional DNA origami lattices using cation-controlled surface diffusion"
+  image: self_assembly.png
+  description: DNA origami are assembled in two-dimensional lattices depending on the concentration of divalent and monovalent cations.
+  authors: S. Woo, P.W.K. Rothemund
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
+    url: https://www.nature.com/articles/ncomms5889
+    display:  Nature Communications 5, 4889 (2014)
   highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+  news1: 
 
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+- title: "Programmable molecular recognition based on the geometry of DNA nanostructures"
+  image: programmable_molecular.png
+  description: We show that we can create geometric arrangements of DNA nanostructures not by using the well-known Waston-Crick complementarity, but by exploiting blunt-end stacking interactions. The DNA origami are designed to have orthogonal binding rules and can assemble in desired larger shapes.
+  authors: S. Woo, P.W.K. Rothemund
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
+    url: https://www.nature.com/articles/nchem.1070
+    display:  Nature Chemistry 3, 620-627 (2011)
+  highlight: 1
   news2:
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
