@@ -38,6 +38,16 @@
   highlight: 1
   news1: 
 
+- title: "A single-stranded architecture for cotranscriptional folding of RNA nanostructures"
+  image: rna_origami.png
+  description: Together with Ebbe Andersen's lab the origami technique gets ported to the world of RNA, that can be folded during transcription and so genetically encoded.
+  authors: C. Geary, P.W.K. Rothemund, E.S. Andersen
+  link:
+    url: https://science.sciencemag.org/content/345/6198/799
+    display: Science 345, 6198 (2014)
+  highlight: 1
+  news1: Perspective [Self-assembled RNA nanostructures](https://science.sciencemag.org/content/345/6198/732) by N.B. Leontis and E. Westhof.
+
 - title: "Programmable molecular recognition based on the geometry of DNA nanostructures"
   image: programmable_molecular.png
   description: We show that we can create geometric arrangements of DNA nanostructures not by using the well-known Waston-Crick complementarity, but by exploiting blunt-end stacking interactions. The DNA origami are designed to have orthogonal binding rules and can assemble in desired larger shapes.
@@ -64,7 +74,7 @@
   authors: P.W.K. Rothemund
   link:
     url: https://www.nature.com/articles/nature04586
-    display:  Nature 440, 297-302
+    display:  Nature 440, 297-302 (2006)
   highlight: 1
-  news2: News and Views, [The manifold faces of DNA](https://www.nature.com/articles/440283a) by Lloyd M. Smith.
+  news2: News and Views, [The manifold faces of DNA](https://www.nature.com/articles/440283a) by L.M. Smith.
 
