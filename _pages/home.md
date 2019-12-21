@@ -8,8 +8,6 @@ permalink: /
 
 Our group works in DNA nanotechnology at [Caltech](https://caltech.edu). We research new designs and techniques to expand the toolkit of DNA nanotechnology. After demonstrating the technique of DNA origami, we are interested in integrating it in different fields where its programmability and modularity can bring added value. 
 
-Our lab is located at Caltech and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions. We formed a supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -45,7 +43,7 @@ Our lab is located at Caltech and we are part of the [Biology and Biological Eng
   </a>
 </div>
 
-
+Our lab is located at Caltech and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions. We formed a supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
 
 
 
