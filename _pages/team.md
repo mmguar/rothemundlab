@@ -11,7 +11,7 @@ permalink: /team/
 
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [bachelor students](#bachelor-students), [alumni](#alumni), [lab visitors](#visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -79,6 +79,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Bachelor Students
+Contact Paul if you are interested in working with us for you bachelor research project or SURF.
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
