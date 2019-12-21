@@ -1,9 +1,9 @@
 ---
-title: "Rothemund Lab - Home"
+title: "Rothemund Lab - DNA Origami"
 layout: homelay
 excerpt: "Rothemund Lab at Caltech."
 sitemap: false
-permalink: /
+permalink: /dna_origami
 ---
 
 
