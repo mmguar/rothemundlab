@@ -48,24 +48,24 @@
   highlight: 1
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "Self-assembly of carbon nanotubes into two-dimensional geometries using DNA origami templates"
+  image: carbon_nanotubes.png
+  description: DNA origami can be used as a scaffold to assemble carbon nanotubes to create field-effect transistors.
+  authors: H.T. Maune, S. Han, R.D. Barish, M. Bockrath, W.A. Goddard III, P.W.K. Rothemund, E. Winfree
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
+    url: https://www.nature.com/articles/nnano.2009.311
+    display: Nature Nanotechnology 5, 61-66 (2010)
   highlight: 1
   news2:
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+- title: "Folding DNA to create nanoscale shapes and patterns"
+  image: folding_dna.jpg
+  description: Paul develops the new technique of DNA origami: DNA strands can assemble to form arbitrary nanometric shapes. Learn more [here]({{site.baseurl}}{% link _pages/dna_origami.md %})
+  authors: P.W.K. Rothemund
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
+    url: https://www.nature.com/articles/nature04586
+    display:  Nature 440, 297-302
+  highlight: 1
   news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
 - title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
