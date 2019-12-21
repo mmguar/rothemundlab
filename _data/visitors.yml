@@ -1,0 +1,12 @@
+- name: Tyler Ross
+  photo: tyler.jpg
+  info: Ph.D. Student with Matt Thomson at Caltech
+  office: 210 Moore
+  email: tross@caltech.edu
+  
+- name: Rishabh Shetty
+  photo: rishabh.jpg
+  info: Postdoc with Ashwin Gopinath at MIT
+  office: 231 Moore
+  email: rmshetty@caltech.edu
+

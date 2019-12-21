@@ -1,6 +1,7 @@
 - name: Paul W. K. Rothemund
   photo: pwkr.jpg
   info: Research professor
+  office: 231 Moore
   email: pwkr@dna.caltech.edu
   number_educ: 2
   education1: B.S. Biology and Engineering and Applied Science, Caltech
@@ -9,11 +10,13 @@
 - name: Lucinda Acosta
   photo: lucinda.jpg
   info: Administrative Assistant
+  office: 204c Moore
   email: lucinda@caltech.edu
 
 - name: Vishal Maingi
   photo: vishal.jpg
   info: Postdoc, Biology and Biological Engineering
+  office: 210a Moore
   email: vmaingi@caltech.edu
   number_educ: 4
   education1: B.Pharm., Pharmaceutical Sciences, Gutu Nanak Dev University (IN)
@@ -25,6 +28,7 @@
 - name: Byoung-jin Jeon
   photo: bj.jpg
   info: Postdoc, Computing and Mathematical Science
+  office: 210a Moore
   email: bjeon@caltech.edu
   number_educ: 4
   education1: B.S. Materials Science & Engineering, Yonsei University (KR) 
@@ -35,6 +39,7 @@
 - name: Jaimie Marie Stewart
   photo: jms.jpg
   info: Postdoc, Computing and Mathematical Sciences
+  office: 210c Moore
   email: jms@caltech.edu
   number_educ: 3
   education1: B.S. Bioengineering, University of Illinois at Chicago
@@ -44,6 +49,7 @@
 - name: Matteo Michele Guareschi
   photo: mmg.jpg
   info: Ph.D. Student, Bioengineering
+  office: 210c Moore
   email: mmguar@dna.caltech.edu
   number_educ: 2
   education1: B.S. Electrical Engineering & Computer Science, Università di Pavia (IT)
@@ -52,6 +58,7 @@
 - name: Olivia Zou
   photo: olivia.jpg
   info: Ph.D. Rotation Student, Bioengineering
+  office: 210 Moore
   email: ozou@caltech.edu
   number_educ: 1
   education1: B.S. Biological Physiscs, Mathematics, Brandeis University
