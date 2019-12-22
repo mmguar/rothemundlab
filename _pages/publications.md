@@ -51,7 +51,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-<span style="color:rgb(255,110,30)">## Selected List</span>
+<span style="color:rgb(255,110,30)"> ## Selected List</span>
 
 {% for publi in site.data.publist %}
 
