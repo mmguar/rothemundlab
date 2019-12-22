@@ -51,7 +51,6 @@ Find out more about our [research](research) and [get in touch with us](contact)
 Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions.    
 We form a DNA nanotechnology supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
 
-
 <br>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_caltech.png" style="width: 150px">
