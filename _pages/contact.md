@@ -6,8 +6,15 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Research
+#Contact us
+If you are interested in getting in touch or working with us, contact Paul:
 
-Importantly, there is a long list of people who do work on DNA nanotechnology. Among them the inventor of DNA nanotechnology [Ned Seeman](http://seemanlab4.chem.nyu.edu/nanotech.html) at NYU, [William Shih](shih.med.harvard.edu) at Harvard, [Milan Stojanovic and Darko Stefanovic](https://systemsbiology.columbia.edu/faculty/milan-stojanovic) at Columbia and UNM, [Hao Yan](http://yanlab.asu.edu/) at Arizona State University, [Thom LaBean](https://www.mse.ncsu.edu/labean/) at NCSU, [Andrew Turberfield](https://www2.physics.ox.ac.uk/research/self-assembled-structures-and-devices) at Oxford, [Hiroshi Sugiyama and Masayuki Endo](http://www.icems.kyoto-u.ac.jp/e/ppl/grp/sugiyama.html) at Kyoto University, [Bernie Yurke](http://coen.boisestate.edu/ece/faculty-staff/bio/?id=2) and [others](http://boisestate.edu/nano/about-us/faculty/) in the [Nanoscale Materials and Devices Lab](http://nano.boisestate.edu/) at Boise State University, [Hendrik Dietz](http://bionano.physik.tu-muenchen.de/), [Fritz Simmel](http://www.e14.ph.tum.de/), and [Tim Liedl](http://www.softmatter.physik.uni-muenchen.de/tiki-index.php?page=GroupLiedlHome) with their three groups in Munich, and many others. 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+Caltech, MS 136-93, Moore 231
+Pasadena, CA 91125 (USA)
+pwkr@dna.caltech.edu
+Cell: (626) 390-0438
+Fax: (626) 584-0630
+
+We are located in the [Moore building](https://goo.gl/maps/nwh6LWJPqApKGP6k7) on Caltech campus. We share lab spaces and resources with the [Winfree lab](http://dna.caltech.edu).
+
 
