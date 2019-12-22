@@ -5,7 +5,7 @@ excerpt: "Rothemund Lab at Caltech."
 sitemap: false
 permalink: /dna_origami
 ---
-
+# DNA origami
 ![](/images/origami_pic/two_smileys.jpg =300x)
 
 
