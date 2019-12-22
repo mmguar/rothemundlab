@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-We research new designs and methods to expand the toolkit of DNA nanotechnology. After demonstrating the technique of [DNA origami](dna_origami), we are interested in integrating it in different fields where its programmability and modularity can bring added value. 
+We research new designs and methods to expand the toolkit of DNA nanotechnology. After demonstrating the technique of [DNA origami](dna_origami), we are interested in integrating it in different fields where its programmability and modularity can bring added value.  
+Find out more about our [research](research) and [get in touch with us](contact).  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -46,7 +47,8 @@ We research new designs and methods to expand the toolkit of DNA nanotechnology.
   </a>
 </div>
 
-Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions. We form a DNA nanotechnology supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
+Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions.    
+We form a DNA nanotechnology supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
 
 
 
