@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-<h2 style="color:rgb(255,110,30)">Highlights</h2>
+## Highlights
 
 (For a selected list see [below](#full-list) or for the full list go to [Google Scholar](https://scholar.google.ch/citations?hl=it&user=MnQWxDEAAAAJ))
 {% assign number_printed = 0 %}
@@ -51,7 +51,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-<h2 style="color:rgb(255,110,30)">Selected List</h2>
+## Selected List
 
 {% for publi in site.data.publist %}
 
