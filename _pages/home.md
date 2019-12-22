@@ -52,8 +52,8 @@ Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Bio
 We form a DNA nanotechnology supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
 
 
-
+<br>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_caltech.png" style="width: 1515151515151515151515151515150px">
 </figure>
-<br><br><br>
+<br><br>
