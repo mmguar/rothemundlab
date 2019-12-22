@@ -224,7 +224,7 @@ Contact Paul if you are interested in working with us for you bachelor research 
 
 
 
-## Former visitors, bachelor students
+## Former visitors and bachelor students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
