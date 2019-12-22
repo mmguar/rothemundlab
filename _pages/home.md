@@ -43,7 +43,7 @@ We research new designs and techniques to expand the toolkit of DNA nanotechnolo
   </a>
 </div>
 
-Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions. We formed a supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
+Our lab is located at [Caltech](https://caltech.edu) and we are part of the [Biology and Biological Engineering](http://www.bbe.caltech.edu/), [Computing + Mathematical Science](http://www.cms.caltech.edu/) and [Computation & Neural Systems](https://www.cns.caltech.edu/) divisions. We form a DNA nanotechnology supergroup and frequently collaborate with the [Winfree](http://www.dna.caltech.edu/~winfree/) and [Qian](http://qianlab.caltech.edu/) labs.
 
 
 
