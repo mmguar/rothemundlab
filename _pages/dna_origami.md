@@ -6,8 +6,7 @@ sitemap: false
 permalink: /dna_origami
 ---
 # DNA origami
-![](/images/origami_pic/two_smileys.jpg =300x)
-
+![]({{ site.url }}{{ site.baseurl }}/images/origami_pic/two_smileys.jpg =300x)
 
 In 2006, I reported a method of creating nanoscale shapes and patterns using DNA. Each of the two smiley faces above, at right, are actually giant DNA complexes imaged with an atomic force microscope. Each is about 100 nanometers across (1/1000th the width of a human hair), 2 nanometers thick, and each is comprised of about 14,000 DNA bases. 7000 of these DNA bases belong to a long single strand, a DNA molecule that just happens to be the genome of the virus M13. The other 7000 of these bases belong to about 250 shorter strands, each about 30 bases long. These short strands fold the long strand into the smiley face shape. I call the method "scaffolded DNA origami". (For the record: there is no fundamental significance to the fact that it is viral DNA; I could buy it and it was cheap and pure. M13 is a bacteriophage---it can make the bacteria in your intestine sick but not you! Also, I apologize to my Japanese colleagues for the name "DNA origami" which literally translated would be "DNA paper folding"---English speakers sometimes use "origami" as verb meaning just "to fold up", similar to the way we use "pretzel" as a verb---thus "DNA origami" had the feeling of "DNA folding" even though it is an abuse of the word "origami".) 
 
