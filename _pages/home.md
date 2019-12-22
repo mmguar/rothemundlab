@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We research new designs and methods to expand the toolkit of DNA nanotechnology. After demonstrating the technique of DNA origami, we are interested in integrating it in different fields where its programmability and modularity can bring added value. 
+We research new designs and methods to expand the toolkit of DNA nanotechnology. After demonstrating the technique of [DNA origami](dna_origami), we are interested in integrating it in different fields where its programmability and modularity can bring added value. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
