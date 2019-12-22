@@ -1,9 +1,9 @@
 ---
-title: "Rothemund Lab - Research"
+title: "Rothemund Lab - Contact"
 layout: textlay
-excerpt: "Rothemund Lab -- Research"
+excerpt: "Rothemund Lab -- Contact"
 sitemap: false
-permalink: /research/
+permalink: /contact/
 ---
 
 # Research
