@@ -7,8 +7,6 @@ permalink: /research/
 ---
 # Research   
 ## DNA origami
-![]({{ site.url }}{{ site.baseurl }}/images/respic/origami.png){: style="width: 720px; float: left; border: 10px"}
-<br/>
 For an introduction to DNA origami and our research, watch the Watson Lecture on "DNA origami: Folded DNA as a Building Material for Molecular Devices":
 <iframe  title="YouTube video player" width="720" height="480" src="https://www.youtube.com/embed/yPkQsrQwpj8" frameborder="0" allowfullscreen></iframe>
 <br/>
