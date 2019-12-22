@@ -22,7 +22,7 @@ If you are interested in DNA origami, and DNA nanotechnology in general, and wan
 
 Once the basic design for a shape has been completed, one can add a surface pattern on top of the shape. For demonstration purposes in the Nature paper, the surface pattern was also made out of DNA although in principle it could be rendered using a chemically, electronically, or optically interesting material. Because each staple occurs in a unique location in the origami shape, this location can serve as a pixel. The normal DNA staple can represent a '0' or a flat pixel. A modified DNA staple with an extra DNA bump (a DNA hairpin) can be used to represent a '1'. This is what has been done for the first three images below, the map, some snowflakes, and the word 'DNA' rendered above a representation of the double helix. Each of these patterns has been applied on a roughly 100 nanometer wide rectangle and each pixel is roughly 6 nanometers in size. Because there are about 200 staples, each pattern can have 200 pixels. Two copies of the origami have stuck together in the third image to make the helix appear continuous. Errors occasionally occur as in the lefthand 'D' in the first 'DNA' at right. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/origami_pic/dna_collage.jpg )   
+![]({{ site.url }}{{ site.baseurl }}/images/origami_pic/dna_collage.png )   
 
 The structure below is a hexagon that is actually built up of six origami triangles. Each triangle has a pattern added to it (the green bumps) so that orientation of the triangles in the hexagon can be ascertained. 
 
