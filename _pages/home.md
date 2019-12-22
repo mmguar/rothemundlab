@@ -54,6 +54,6 @@ We form a DNA nanotechnology supergroup and frequently collaborate with the [Win
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_caltech.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_caltech.png" style="width: 1515151515151515151515151515150px">
 </figure>
 <br><br><br>
