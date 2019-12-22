@@ -23,7 +23,7 @@ We research new designs and methods to expand the toolkit of DNA nanotechnology.
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/two_smileys.jpg" alt="Slide 1" />
 	    <div class="carousel-caption">
-		<h6 color="rgb(255,255,255)">Rendered by Nick Papadakis, Copyright P.W.K.R. and N.P.</h3>
+		<h6 style="color:white;">Rendered by Nick Papadakis, Copyright P.W.K.R. and N.P.</h3>
 	    </div>
         </div>
         <div class="item">
