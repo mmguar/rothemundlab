@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 # Research   
-
+## DNA origami
 For an introduction to DNA origami and our research, watch the Watson Lecture on "DNA origami: Folded DNA as a Building Material for Molecular Devices":
 <iframe  title="YouTube video player" width="720" height="480" src="https://www.youtube.com/embed/yPkQsrQwpj8" frameborder="0" allowfullscreen></iframe>
 <br/>
@@ -17,7 +17,7 @@ Some more thoughts and information about DNA origami can be found on [our websit
 ["Casting spells with DNA", TED, March 2007](http://www.ted.com/talks/paul_rothemund_casts_a_spell_with_dna)   
    
 ## Current projects  
-<br/>
+
 ### Biosensing with DNA origami  
 
 We are devising new sensors that can perform DNA and protein detection by using DNA origami as the sensing element. This allows us to tune and optimize the geometry of the sensor in order to accommodate a wide range of analytes and design the structure to optimize signal gain. Electrochemically active molecules can be incorporated in such a device and enable electrical transduction, creating a single-molecule sensing chip that could be used in-vivo and connected to electronics, giving the user a final readout value.
