@@ -9,7 +9,7 @@ permalink: /research/
 
 For an introduction to DNA origami and our research, watch the Watson Lecture on "DNA origami: Folded DNA as a Building Material for Molecular Devices":
 <iframe  title="YouTube video player" width="720" height="480" src="https://www.youtube.com/embed/yPkQsrQwpj8" frameborder="0" allowfullscreen></iframe>
-<br/><br/>
+<br/>
 Some more thoughts and information about DNA origami can be found on [our website](dna_origami) and in a few more talks:  
 <br/>
 ["DNA folding, in detail", TED, February 2008](http://www.ted.com/talks/paul_rothemund_details_dna_folding)    
