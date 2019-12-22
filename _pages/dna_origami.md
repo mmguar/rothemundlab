@@ -1,6 +1,6 @@
 ---
 title: "Rothemund Lab - DNA Origami"
-layout: homelay
+layout: textlay
 excerpt: "Rothemund Lab at Caltech."
 sitemap: false
 permalink: /dna_origami
