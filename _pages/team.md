@@ -11,7 +11,7 @@ permalink: /team/
 
 
 
-Jump to [staff](#staff), [bachelor students](#bachelor-students), [lab visitors](#visitors), [alumni](#alumni).
+Jump to [staff](#staff), [bachelor students](#bachelor-students), [lab visitors](#visitors), [alumni](#alumni), [former visitors and students](#former-visitors-and-bachelor-students).
 
 ## Staff
 {% assign number_printed = 0 %}
