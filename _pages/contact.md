@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Contact us  
 
-If you are interested in getting in touch or working with us, contact Paul:
+If you wish to get in touch with us or are interested in working with us, contact Paul:
 
 Paul W.K. Rothemund  
 Caltech, MS 136-93, Moore 231  
