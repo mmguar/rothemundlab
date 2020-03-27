@@ -45,6 +45,15 @@
   education3: Ph.D. Polymer Science & Engineering, Universy of Massachussets, Amherst
   education4: Postdoc, UC Santa Barbara
 
+- name: Tyler Ross 
+  photo: tyler.jpg
+  info: Postdoc
+  office: 216 Moore
+  email: tross@caltech.edu
+  number_educ: 2 
+  education1: B.S. Physics, University of Virginia 
+  education2: Ph.D. Biology, Caltech
+
 - name: Anya Mitskovets
   photo: anya.jpg
   info: Ph.D. Student, Applied Physiscs with Harry Atwater
