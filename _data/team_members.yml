@@ -47,7 +47,7 @@
 
 - name: Tyler Ross 
   photo: tyler.jpg
-  info: Postdoc
+  info: Postdoc, Computing and Mathematical Science
   office: 216 Moore
   email: tross@caltech.edu
   number_educ: 2 
@@ -65,7 +65,7 @@
 
 - name: Olivia Zou
   photo: olivia.jpg
-  info: Ph.D. Rotation Student, Bioengineering
+  info:  Ph.D. Rotation Student, Bioengineering
   office: 210 Moore
   email: ozou@caltech.edu
   number_educ: 1
