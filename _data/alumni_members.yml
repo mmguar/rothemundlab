@@ -1,11 +1,7 @@
 - name: Anya Mitskovets
   photo: anya.jpg
   info: Ph.D. Student, Applied Physiscs with Harry Atwater
-  office: 210 Moore
-  email: amitskov@caltech.edu
-  number_educ: 2
-  education1: M.S. Optics/Optical Sciences, Karlsruhe Institute of Technology (DE)
-  education2: M.S. Optics and Photonics, Institute Fresnel (FR)
+  duration: Now Co-founder at Fixing CO2
 
 
 - name: Cody Geary
