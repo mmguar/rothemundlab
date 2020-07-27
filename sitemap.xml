@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://rothemundlab.caltech.edu/</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/team/</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/publications/</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/research/</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/contact/</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/dna_origami</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/allnews.html</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/aboutwebsite.html</loc>
+  <lastmod>2020-07-27T22:47:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/downloads/vitae-current-complete.pdf</loc>
+  <lastmod>2020-07-27T22:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/downloads/folding_dna.pdf</loc>
+  <lastmod>2020-07-27T22:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/downloads/folding_dna_supp1.pdf</loc>
+  <lastmod>2020-07-27T22:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rothemundlab.caltech.edu/downloads/folding_dna_supp2.pdf</loc>
+  <lastmod>2020-07-27T22:46:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
